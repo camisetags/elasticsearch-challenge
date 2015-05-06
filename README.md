@@ -1,4 +1,4 @@
-* elasticsearch-challenge
+# elasticsearch-challenge
 
 O desafio é o seguinte:
 
